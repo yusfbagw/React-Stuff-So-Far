@@ -1,0 +1,17 @@
+/*
+
+The background color is the color of the actual button and the color is going to be the color for the text inside the button
+
+The cursor: is going to change the cursor to a pointer when you hover over it. Honestly kind of crucial to use.
+
+
+
+*/
+.button{
+    background-color: rgb(255, 0, 200);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+  }
