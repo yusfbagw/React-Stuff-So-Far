@@ -1,0 +1,19 @@
+.student{
+  font-family: Arial, Helvetica, sans-serif;
+  /*
+    This changes the font size to 200% of the original.
+  */
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid rgba(117, 117, 117, 0.387);
+}
+
+/*
+
+This is going to access the student class
+and then look inside of it to look at the
+paragraph elements.
+*/
+.student p{
+  margin: 0;
+}
